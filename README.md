@@ -1,1 +1,1 @@
-# Analysis-of-A-B-Testing
+# Analysis-of-A/B-Testing
